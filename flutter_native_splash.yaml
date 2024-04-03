@@ -1,0 +1,4 @@
+flutter_native_splash:
+  image: assets/images/foodie.png
+  color: "#ffffff"      # Background color of the splash screen (in hexadecimal format)
+  fill: false           # Whether to stretch the splash image to cover the entire screen
